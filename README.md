@@ -1,12 +1,11 @@
-# Sales-performance-
-his project aims to gain a comprehensive understanding of the sales team's performance by leveraging data analysis. It will identify strengths, weaknesses, and opportunities for improvement.
 # Performance of Manager & Sales Team Dashboard
 
 ## Overview
 
 This dashboard provides insights into the performance of the manager and sales team, highlighting key metrics and detailed breakdowns by deal stages and outcomes. Below is a snapshot of the dashboard:
 
-![Sales Performance](https://your-repository-url/path-to-your-image.png)
+![Sales performance](https://github.com/fesallomer/Sales-performance-/assets/167563648/5991b8e6-9680-47d0-820a-4c6db510fc9f)
+
 
 ## Insights
 
@@ -33,4 +32,4 @@ This dashboard provides insights into the performance of the manager and sales t
    - A significant portion of deals are won (48.18%), showing a good success rate.
    - Engaging and prospecting stages indicate a healthy pipeline for future deals.
 
-These insights help in understanding the performance dynamics of the sales team and managers, aiding in strategic decisions and identifying areas for improvement.
+
